@@ -1,4 +1,4 @@
-%% Overview
+%% Kalman Filter
 % The model is configured with a Gaussian process and its output Y_k 
 % connected to a Kalman Filter. To directly use this model, We
 % only needs to provide model prarameters including parameters of the
